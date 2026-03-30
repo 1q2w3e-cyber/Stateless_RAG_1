@@ -27,3 +27,6 @@ chroma_db/
 
 # dotenv local config
 .env
+
+# Data files
+data/*.pdf
