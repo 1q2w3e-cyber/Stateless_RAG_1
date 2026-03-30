@@ -101,7 +101,7 @@ conversational_rag = RunnableWithMessageHistory(
 )
 
 # Step 7 — Query loop
-print("\n✅ Conversational RAG ready!")
+print("\n Conversational RAG ready!")
 print("Type 'exit' to quit\n")
 
 while True:

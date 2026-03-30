@@ -1,6 +1,6 @@
 # RAG Project
 
-A simple Stateless RAG (Retrieval Augmented Generation) system built with LangChain, ChromaDB, and Groq.
+RAG with conversation memory built with LangChain, ChromaDB, and Groq.
 
 ## Setup
 
