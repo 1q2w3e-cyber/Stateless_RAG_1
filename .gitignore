@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Pipenv / poetry
+Pipfile.lock
+.poetry/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Chroma DB persistence
+chroma_db/
+*.db
+*.sqlite
+
+# dotenv local config
+.env
